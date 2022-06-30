@@ -1,0 +1,33 @@
+  body{
+    text-align: center;
+    background-image: linear-gradient( to right,  #081c15, #1b4332, #2d6a4f, #081c15);
+    font: normal 12pt Arial;
+}
+
+section{
+    background: #f8e9ca;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    font: normal 12pt Arial;
+    text-align: center;
+}
+header{
+    text-align: center;
+    color: #e6c568;
+    
+
+}
+
+
+
+section#placar{
+  color:black;
+  background-image: linear-gradient( to right, #EF8F01, #F69F03, #F5B705, #85dd5f, #5fbf2b);
+  border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+  
+}
